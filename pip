@@ -1,0 +1,544 @@
+(py3Env) (base) Rodolfos-MBP:environments rodolfohernandez$ pip list
+Package                            Version 
+---------------------------------- --------
+alabaster                          0.7.12  
+anaconda-client                    1.7.2   
+anaconda-navigator                 1.9.7   
+anaconda-project                   0.8.2   
+appnope                            0.1.0   
+appscript                          1.0.1   
+asn1crypto                         0.24.0  
+astroid                            2.2.5   
+astropy                            3.1.2   
+atomicwrites                       1.3.0   
+attrs                              19.1.0  
+Babel                              2.6.0   
+backcall                           0.1.0   
+backports.os                       0.1.1   
+backports.shutil-get-terminal-size 1.0.0   
+beautifulsoup4                     4.7.1   
+bitarray                           0.8.3   
+bkcharts                           0.2     
+bleach                             3.1.0   
+bokeh                              1.0.4   
+boto                               2.49.0  
+Bottleneck                         1.2.1   
+certifi                            2019.3.9
+cffi                               1.12.2  
+chardet                            3.0.4   
+Click                              7.0     
+cloudpickle                        0.8.0   
+clyent                             1.2.2   
+colorama                           0.4.1   
+conda                              4.6.11  
+conda-build                        3.17.8  
+conda-verify                       3.1.1   
+contextlib2                        0.5.5   
+cryptography                       2.6.1   
+cycler                             0.10.0  
+Cython                             0.29.6  
+cytoolz                            0.9.0.1 
+dask                               1.1.4   
+decorator                          4.4.0   
+defusedxml                         0.5.0   
+distributed                        1.26.0  
+docutils                           0.14    
+entrypoints                        0.3     
+et-xmlfile                         1.0.1   
+fastcache                          1.0.2   
+filelock                           3.0.10  
+Flask                              1.0.2   
+future                             0.17.1  
+gevent                             1.4.0   
+glob2                              0.6     
+gmpy2                              2.0.8   
+greenlet                           0.4.15  
+h5py                               2.9.0   
+heapdict                           1.0.0   
+html5lib                           1.0.1   
+idna                               2.8     
+imageio                            2.5.0   
+imagesize                          1.1.0   
+importlib-metadata                 0.0.0   
+ipykernel                          5.1.0   
+ipython                            7.4.0   
+ipython-genutils                   0.2.0   
+ipywidgets                         7.4.2   
+isort                              4.3.16  
+itsdangerous                       1.1.0   
+jdcal                              1.4     
+jedi                               0.13.3  
+Jinja2                             2.10    
+jsonschema                         3.0.1   
+jupyter                            1.0.0   
+jupyter-client                     5.2.4   
+jupyter-console                    6.0.0   
+jupyter-core                       4.4.0   
+jupyterlab                         0.35.4  
+jupyterlab-server                  0.2.0   
+keyring                            18.0.0  
+kiwisolver                         1.0.1   
+lazy-object-proxy                  1.3.1   
+libarchive-c                       2.8     
+lief                               0.9.0   
+llvmlite                           0.28.0  
+locket                             0.2.0   
+lxml                               4.3.2   
+MarkupSafe                         1.1.1   
+matplotlib                         3.0.3   
+mccabe                             0.6.1   
+mistune                            0.8.4   
+mkl-fft                            1.0.10  
+mkl-random                         1.0.2   
+more-itertools                     6.0.0   
+mpmath                             1.1.0   
+msgpack                            0.6.1   
+multipledispatch                   0.6.0   
+navigator-updater                  0.2.1   
+nbconvert                          5.4.1   
+nbformat                           4.4.0   
+networkx                           2.2     
+nltk                               3.4     
+nose                               1.3.7   
+notebook                           5.7.8   
+numba                              0.43.1  
+numexpr                            2.6.9   
+numpy                              1.16.2  
+numpydoc                           0.8.0   
+olefile                            0.46    
+openpyxl                           2.6.1   
+packaging                          19.0    
+pandas                             0.24.2  
+pandocfilters                      1.4.2   
+parso                              0.3.4   
+partd                              0.3.10  
+path.py                            11.5.0  
+pathlib2                           2.3.3   
+patsy                              0.5.1   
+pep8                               1.7.1   
+pexpect                            4.6.0   
+pickleshare                        0.7.5   
+Pillow                             5.4.1   
+pip                                19.3.1  
+pkginfo                            1.5.0.1 
+pluggy                             0.9.0   
+ply                                3.11    
+prometheus-client                  0.6.0   
+prompt-toolkit                     2.0.9   
+psutil                             5.6.1   
+ptyprocess                         0.6.0   
+py                                 1.8.0   
+pycodestyle                        2.5.0   
+pycosat                            0.6.3   
+pycparser                          2.19    
+pycrypto                           2.6.1   
+pycurl                             7.43.0.2
+pyflakes                           2.1.1   
+Pygments                           2.3.1   
+pylint                             2.3.1   
+pyodbc                             4.0.26  
+pyOpenSSL                          19.0.0  
+pyparsing                          2.3.1   
+pyrsistent                         0.14.11 
+PySocks                            1.6.8   
+pytest                             4.3.1   
+pytest-arraydiff                   0.3     
+pytest-astropy                     0.5.0   
+pytest-doctestplus                 0.3.0   
+pytest-openfiles                   0.3.2   
+pytest-remotedata                  0.3.1   
+python-dateutil                    2.8.0   
+pytz                               2018.9  
+PyWavelets                         1.0.2   
+PyYAML                             5.1     
+pyzmq                              18.0.0  
+QtAwesome                          0.5.7   
+qtconsole                          4.4.3   
+QtPy                               1.7.0   
+requests                           2.21.0  
+rope                               0.12.0  
+ruamel-yaml                        0.15.46 
+scikit-image                       0.14.2  
+scikit-learn                       0.20.3  
+scipy                              1.2.1   
+seaborn                            0.9.0   
+Send2Trash                         1.5.0   
+setuptools                         40.8.0  
+simplegeneric                      0.8.1   
+singledispatch                     3.4.0.3 
+six                                1.12.0  
+snowballstemmer                    1.2.1   
+sortedcollections                  1.1.2   
+sortedcontainers                   2.1.0   
+soupsieve                          1.8     
+Sphinx                             1.8.5   
+sphinxcontrib-websupport           1.1.0   
+spyder                             3.3.3   
+spyder-kernels                     0.4.2   
+SQLAlchemy                         1.3.1   
+statsmodels                        0.9.0   
+sympy                              1.3     
+tables                             3.5.1   
+tblib                              1.3.2   
+terminado                          0.8.1   
+testpath                           0.4.2   
+toolz                              0.9.0   
+tornado                            6.0.2   
+tqdm                               4.31.1  
+traitlets                          4.3.2   
+unicodecsv                         0.14.1  
+urllib3                            1.24.1  
+wcwidth                            0.1.7   
+webencodings                       0.5.1   
+Werkzeug                           0.14.1  
+wheel                              0.33.1  
+widgetsnbextension                 3.4.2   
+wrapt                              1.11.1  
+wurlitzer                          1.0.2   
+xlrd                               1.2.0   
+XlsxWriter                         1.1.5   
+xlwings                            0.15.4  
+xlwt                               1.3.0   
+zict                               0.1.4   
+zipp                               0.3.3   
+(py3Env) (base) Rodolfos-MBP:environments rodolfohernandez$ deactivate
+(base) Rodolfos-MBP:environments rodolfohernandez$ pip3 list
+Package      Version   
+------------ ----------
+certifi      2018.11.29
+Click        7.0       
+Flask        1.1.1     
+itsdangerous 1.1.0     
+Jinja2       2.10.1    
+MarkupSafe   1.1.1     
+pip          18.1      
+setuptools   40.6.2    
+Werkzeug     0.15.6    
+You are using pip version 18.1, however version 19.3.1 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
+(base) Rodolfos-MBP:environments rodolfohernandez$ source py3Env/bin/activate
+(py3Env) (base) Rodolfos-MBP:environments rodolfohernandez$ pip install Django==2.0
+Collecting Django==2.0
+  Using cached https://files.pythonhosted.org/packages/44/98/35b935a98a17e9a188efc2d53fc51ae0c8bf498a77bc224f9321ae5d111c/Django-2.0-py3-none-any.whl
+Requirement already satisfied: pytz in /Users/rodolfohernandez/anaconda3/lib/python3.7/site-packages (from Django==2.0) (2018.9)
+Installing collected packages: Django
+Successfully installed Django-2.0
+(py3Env) (base) Rodolfos-MBP:environments rodolfohernandez$ pip freeze
+alabaster==0.7.12
+anaconda-client==1.7.2
+anaconda-navigator==1.9.7
+anaconda-project==0.8.2
+appnope==0.1.0
+appscript==1.0.1
+asn1crypto==0.24.0
+astroid==2.2.5
+astropy==3.1.2
+atomicwrites==1.3.0
+attrs==19.1.0
+Babel==2.6.0
+backcall==0.1.0
+backports.os==0.1.1
+backports.shutil-get-terminal-size==1.0.0
+beautifulsoup4==4.7.1
+bitarray==0.8.3
+bkcharts==0.2
+bleach==3.1.0
+bokeh==1.0.4
+boto==2.49.0
+Bottleneck==1.2.1
+certifi==2019.3.9
+cffi==1.12.2
+chardet==3.0.4
+Click==7.0
+cloudpickle==0.8.0
+clyent==1.2.2
+colorama==0.4.1
+conda==4.6.11
+conda-build==3.17.8
+conda-verify==3.1.1
+contextlib2==0.5.5
+cryptography==2.6.1
+cycler==0.10.0
+Cython==0.29.6
+cytoolz==0.9.0.1
+dask==1.1.4
+decorator==4.4.0
+defusedxml==0.5.0
+distributed==1.26.0
+Django==2.0
+docutils==0.14
+entrypoints==0.3
+et-xmlfile==1.0.1
+fastcache==1.0.2
+filelock==3.0.10
+Flask==1.0.2
+future==0.17.1
+gevent==1.4.0
+glob2==0.6
+gmpy2==2.0.8
+greenlet==0.4.15
+h5py==2.9.0
+heapdict==1.0.0
+html5lib==1.0.1
+idna==2.8
+imageio==2.5.0
+imagesize==1.1.0
+importlib-metadata==0.0.0
+ipykernel==5.1.0
+ipython==7.4.0
+ipython-genutils==0.2.0
+ipywidgets==7.4.2
+isort==4.3.16
+itsdangerous==1.1.0
+jdcal==1.4
+jedi==0.13.3
+Jinja2==2.10
+jsonschema==3.0.1
+jupyter==1.0.0
+jupyter-client==5.2.4
+jupyter-console==6.0.0
+jupyter-core==4.4.0
+jupyterlab==0.35.4
+jupyterlab-server==0.2.0
+keyring==18.0.0
+kiwisolver==1.0.1
+lazy-object-proxy==1.3.1
+libarchive-c==2.8
+lief==0.9.0
+llvmlite==0.28.0
+locket==0.2.0
+lxml==4.3.2
+MarkupSafe==1.1.1
+matplotlib==3.0.3
+mccabe==0.6.1
+mistune==0.8.4
+mkl-fft==1.0.10
+mkl-random==1.0.2
+more-itertools==6.0.0
+mpmath==1.1.0
+msgpack==0.6.1
+multipledispatch==0.6.0
+navigator-updater==0.2.1
+nbconvert==5.4.1
+nbformat==4.4.0
+networkx==2.2
+nltk==3.4
+nose==1.3.7
+notebook==5.7.8
+numba==0.43.1
+numexpr==2.6.9
+numpy==1.16.2
+numpydoc==0.8.0
+olefile==0.46
+openpyxl==2.6.1
+packaging==19.0
+pandas==0.24.2
+pandocfilters==1.4.2
+parso==0.3.4
+partd==0.3.10
+path.py==11.5.0
+pathlib2==2.3.3
+patsy==0.5.1
+pep8==1.7.1
+pexpect==4.6.0
+pickleshare==0.7.5
+Pillow==5.4.1
+pkginfo==1.5.0.1
+pluggy==0.9.0
+ply==3.11
+prometheus-client==0.6.0
+prompt-toolkit==2.0.9
+psutil==5.6.1
+ptyprocess==0.6.0
+py==1.8.0
+pycodestyle==2.5.0
+pycosat==0.6.3
+pycparser==2.19
+pycrypto==2.6.1
+pycurl==7.43.0.2
+pyflakes==2.1.1
+Pygments==2.3.1
+pylint==2.3.1
+pyodbc==4.0.26
+pyOpenSSL==19.0.0
+pyparsing==2.3.1
+pyrsistent==0.14.11
+PySocks==1.6.8
+pytest==4.3.1
+pytest-arraydiff==0.3
+pytest-astropy==0.5.0
+pytest-doctestplus==0.3.0
+pytest-openfiles==0.3.2
+pytest-remotedata==0.3.1
+python-dateutil==2.8.0
+pytz==2018.9
+PyWavelets==1.0.2
+PyYAML==5.1
+pyzmq==18.0.0
+QtAwesome==0.5.7
+qtconsole==4.4.3
+QtPy==1.7.0
+requests==2.21.0
+rope==0.12.0
+ruamel-yaml==0.15.46
+scikit-image==0.14.2
+scikit-learn==0.20.3
+scipy==1.2.1
+seaborn==0.9.0
+Send2Trash==1.5.0
+simplegeneric==0.8.1
+singledispatch==3.4.0.3
+six==1.12.0
+snowballstemmer==1.2.1
+sortedcollections==1.1.2
+sortedcontainers==2.1.0
+soupsieve==1.8
+Sphinx==1.8.5
+sphinxcontrib-websupport==1.1.0
+spyder==3.3.3
+spyder-kernels==0.4.2
+SQLAlchemy==1.3.1
+statsmodels==0.9.0
+sympy==1.3
+tables==3.5.1
+tblib==1.3.2
+terminado==0.8.1
+testpath==0.4.2
+toolz==0.9.0
+tornado==6.0.2
+tqdm==4.31.1
+traitlets==4.3.2
+unicodecsv==0.14.1
+urllib3==1.24.1
+wcwidth==0.1.7
+webencodings==0.5.1
+Werkzeug==0.14.1
+widgetsnbextension==3.4.2
+wrapt==1.11.1
+wurlitzer==1.0.2
+xlrd==1.2.0
+XlsxWriter==1.1.5
+xlwings==0.15.4
+xlwt==1.3.0
+zict==0.1.4
+zipp==0.3.3
+(py3Env) (base) Rodolfos-MBP:environments rodolfohernandez$ cd ~/Desktop
+(py3Env) (base) Rodolfos-MBP:Desktop rodolfohernandez$ pip freeze > requirements.txt
+(py3Env) (base) Rodolfos-MBP:Desktop rodolfohernandez$ ls
+Discord.app                                     Visual Studio Code.app                          python fundamentals                             test wireframe
+Screen Shot 2019-11-06 at 4.33.20 PM (2).png    bootstrap                                       python introduction
+Screen Shot 2019-11-06 at 4.33.20 PM.png        index assig                                     requirements.txt
+Terminal                                        python OOP                                      screenshots
+(py3Env) (base) Rodolfos-MBP:Desktop rodolfohernandez$ pip uninstall Django
+Uninstalling Django-2.0:
+  Would remove:
+    /Users/rodolfohernandez/anaconda3/bin/django-admin
+    /Users/rodolfohernandez/anaconda3/bin/django-admin.py
+    /Users/rodolfohernandez/anaconda3/lib/python3.7/site-packages/Django-2.0.dist-info/*
+    /Users/rodolfohernandez/anaconda3/lib/python3.7/site-packages/django/*
+Proceed (y/n)? y
+  Successfully uninstalled Django-2.0
+(py3Env) (base) Rodolfos-MBP:Desktop rodolfohernandez$ pip show Django
+WARNING: Package(s) not found: Django
+(py3Env) (base) Rodolfos-MBP:Desktop rodolfohernandez$ pip search Flask
+Flask-OrientDB (0.1)         - A Flask extension for using OrientDB with Flask
+Flask-SimpleMDE (0.3.0)      - Flask-SimpleMDE - a Flask extension for SimpleMDE
+Flask-Pure (0.5)             - Flask-Pure - a Flask extension for Pure.css
+Flask-FontAwesome (0.1.2)    - FontAwesome for Flask
+Flask-AutoIndex (0.6.4)      - The mod_autoindex for Flask
+Flask-Clearbit (0.1.0)       - Flask-Clearbit
+Flask-Mustache (0.4.1)       - Mustache for Flask
+Fifty-Flask (1.4.0)          - Flask enhancements.
+Flask-Chargebee (0.0.1)      - Flask-Chargebee
+Flask-Keen (0.1.0)           - Flask-Keen
+Flask-NextCaller (0.1.0)     - Flask-NextCaller
+Flask-Gears (0.2)            - Gears for Flask
+Flask-Ext (0.1)              - Extensions of Flask
+Flask-TaskTiger (0.0.1)      - Flask TaskTiger
+Flask-Weixin (0.5.0)         - Weixin for Flask.
+flask-abort (0.0.1)          - flask abort
+flask-ypaginate (0.1.3)      - Pagination for Flask
+Flask-OAuthlib (0.9.5)       - OAuthlib for Flask
+Flask-Watson (0.1.0)         - Flask-Watson
+Flask-FileRev (0.1.0)        - Flask-FileRev
+Flask-Shopify (0.2)          - Shopify Flask
+Flask-GripControl (0.0.1)    - Flask GripControl
+Flask-SRI (0.1.0)            - Flask-SRI
+flask-ws (0.0.1.0)           - Websocket for flask.
+Flask-MDE (1.1.1)            - Pagedown for Flask
+Flask-Intercom (0.1.0)       - Flask-Intercom
+Flask-SPF (0.0.0)            - Flask-SPF
+flask-toolbox (0.0.2)        - A flask toolbox.
+Flask-Turbolinks (0.2.0)     - Turbolinks for Flask.
+Flask-BDEA (0.1.0)           - Flask-BDEA
+Flask-Helper (0.19)          - Flask Helper
+flask-unleash (0.1.0)        - Flask extention
+sockjs-flask (0.3)           - SockJs for Flask
+Flask-Stripe (0.1.0)         - Flask-Stripe
+Flask-Quik (0.1.1)           - Quik for Flask
+Flask-ElasticUtils (0.1.7)   - ElasticUtils for Flask
+Flask-PubSub (0.1.0)         - Flask-PubSub
+Flask-Waitress (0.0.1)       - Flask Waitress
+flask-helloworld (1.0.0)     - Flask Helloworld
+flask-zs (0.0.22)            - A helpers for Flask.
+flask-myapi (0.1)            - Flask-MyAPI - RESTful support library for Flask
+Flask-Diced (0.3)            - Flask-Diced - CRUD views generator for Flask
+airbrake-flask (1.0.7)       - airbrake-flask - Airbrake client for Python Flask
+Flask-GeoIP (0.1.3)          - Flask-GeoIP -------------  Simple Flask extension for pygeoip.
+Flask-RESTive (0.0.3)        - Flask RESTive is a REST API Flask extension based on Flask-RESTful & Marshmallow.
+Flask-LoginManager (1.1.6)   - Flask-Loginmanager supports multiple roles and permissions for Flask, inspired by Flask-Login
+Flask-FlatPagesCut (0.5.1)   - Flask-FlatPagesCut is fork Flask-FlatPages (Provides flat static pages to a Flask application)
+flask-filters (0.3)          - The Flask Filter to use with flask-restful and Relational DB
+flask-shell (0.1.3)          - Flask extension to improve shell command for the Flask CLI.
+flask-stylus2css (0.1)       - A small Flask extension that adds Stylus support to Flask.
+flask-coffee2js (0.1.2)      - A small Flask extension that adds CoffeScript support to Flask.
+Flask-Collect (1.3.2)        - Flask-Collect -- Collect static files in Flask application
+flask-lesscss (0.9.1)        - A small Flask extension that adds LessCSS support to Flask.
+Flask-Profile (0.2)          - Flask Application Profiler
+Flask-Celery (2.4.3)         - Celery integration for Flask
+Flask-WebSocket (1.0)        - simple websocket for Flask
+flask-task (1.0)             - Basic flask task
+flask-tools (0.1.0)          - Tools for Flask application.
+flask-webauthn (0.1)         - A WebAuthn Extension for Flask.
+Flask-ZODB (0.1)             - Use the ZODB with Flask
+Flask-Bcrypt (0.7.1)         - Brcrypt hashing for Flask.
+flask-utils (0.1.1)          - Various Flask utilities.
+Flask-QiniuStorage (0.9.5)   - Qiniu Storage for Flask
+flask-monitor (0.2.6)        - Flask Monitor module
+flask-dynamo (0.1.2)         - DynamoDB integration for Flask.
+Flask-Script (2.0.6)         - Scripting support for Flask
+flask-manager (0.0.1)        - A CRUD manager for Flask
+flask-peewee (3.0.3)         - Peewee integration for flask
+Flask-Extension (1.0)        - Demo for flask extension.
+flask-blueprint (1.3.0)      - Flask blueprint generator
+Flask-RESTify (0.1.3)        - Flask REST framework
+flask-journey (0.1.4)        - Flask blueprint management
+flask-casbin (0.1.0)         - Flask Casbin Integration
+Flask-Raptor (0.1)           - Raptor support for Flask
+Flask-pysnow (0.1.3)         - Flask extension for pysnow
+Flask-Wings (0.5)            - Boilerplate Flask extension.
+flask-hsrpc (0.1.15)         - flask hsrpc plugin
+Flask-Redislite (0.1.1)      - Using Flask with Redislite
+flask-bluestatic (0.1.0)     - Flask BlueStatic module
+Flask-Fulfil (0.3.1)         - Fulfil.IO for Flask Apps
+Flask-Builder (0.9)          - Flask-application factory
+Flask-Psycopg2 (1.3)         - postgresql adapter for Flask
+Flask-Pigeon (0.11)          - Flask messages extension.
+Flask-RangeRequest (0.0.0)   - Range Requests for Flask
+Flask-RQ2 (18.3)             - A Flask extension for RQ.
+Flask-Selfdoc (1.2.2)        - Documentation generator for flask
+flask-fastrest (0.0.1)       - rest framework for flask
+flask-simple (0.0.1)         - SimpleDB integration for Flask.
+Flask-OAuthRes (0.2.0)       - OAuth Resource for Flask
+Flask-pymysql (0.2.3)        - pymysql extension for Flask
+Flask-Captain (0.1.1)        - Handle webhooks with Flask
+flask-redisosgearth (0.0.2)  - Flask extension for redis
+Flask-Formspree (0.3)        - formspree flask extension
+Flask-Lastuser (0.3.12)      - Flask extension for Lastuser
+Flask-Auth (0.85)            - Auth extension for Flask.
+Flask-PyMemcache (0.0.5)     - pymemcache integration for Flask
+flask-webpackext (1.0.0)     - Webpack integration for Flask.
+lantern-flask (0.0.47)       - Lantern Flask Tools
+flask-loguru (1.0.0)         - Flask extension of loguru
+Flask-AuditLog (1.0)         - Request logging for Flask
+(py3Env) (base) Rodolfos-MBP:Desktop rodolfohernandez$ 
